@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <meta charset="UTF-8">
+        <title>Interface chatbot</title>
+        <link rel="stylesheet" type="text/css" href="css/estilo.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/node-uuid/1.4.7/uuid.min.js"></script>
+</head>
+
+<body>
+
+        <div class="chatbox">
+
+                <div class="header">
+
+                        <head>Chat Newsoft</head>
+
+
+
+                </div>
+
+                <div id="chats" class="chatlogs">
+                        <!-- 
+                        <div class="chat self ejemplo">
+                                        <div class="user-photo"><img src="imagenes/user.png"> </div>
+                                        <div></div>
+                                        <p class="chat-message" id="user"></p>
+                                </div>
+                         -->
+
+
+                        <div class="chat friend">
+                                <div class="user-photo"><img src="imagenes/bot2.png"> </div>
+                                <p class="chat-message" id="bot">¡Hola! Me estoy comunicando contigo en nombre de
+                                        Newsoft,
+                                        para el reporte de condiciones inseguras, actos inseguros e inspecciones de
+                                        seguridad
+                                        y salud en el trabajo, con el objetivo de reportar mediante esta aplicación la
+                                        prevención
+                                        de riesgos derivados de las actividades y tareas propias del trabajo.
+                                        ¿Quieres reportar algo?
+                                </p>
+                        </div>
+                        
+
+                </div>
+
+
+                <div class="chat-form">
+                        <textarea placeholder="Escribe el mensaje" name ="textarea" id="inputUser" required autofocus></textarea>
+                        <button type="button" id="send">Enviar</button>
+
+                </div>
+                <div class="enlace"></div>
+        </div>
+
+
+
+        <script src="interfaceJavajs/java.js">
+        </script>
+
+</body>
+
+</html>
