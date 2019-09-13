@@ -134,7 +134,7 @@ body {
   margin: auto;
   padding: 5px;
   color: white;
- 
+  background-image:url(buttonSend.png);
 
 }
 
@@ -145,6 +145,6 @@ body {
 
   #test {
       margin: auto;
-      display: inline-block;
+      color: red;
   }
 
