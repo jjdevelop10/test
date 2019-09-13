@@ -1,0 +1,29 @@
+commit ecf1ff16f9d880f02da05d08e1779afd700c9f50
+Author: Jaime <jjmarin@newsoft.com.co>
+Date:   Thu Sep 12 15:40:44 2019 -0500
+
+    se ha cambiado el color del parrafo
+
+commit 187d512f1c9eeff00b0e80b229c61a355ce156f9
+Author: Jaime <jjmarin@newsoft.com.co>
+Date:   Thu Sep 12 15:36:18 2019 -0500
+
+    Se ha puesto un parrafo test
+
+commit 6b1fef1494d464fc450ee324796400ef097f54f1
+Author: Jaime <jjmarin@newsoft.com.co>
+Date:   Thu Sep 12 15:04:50 2019 -0500
+
+    Se ha agregado un boton
+
+commit d09a53ad7e4ecd16f2d99a898046e3992c859911
+Author: Jaime <jjmarin@newsoft.com.co>
+Date:   Thu Sep 12 14:38:51 2019 -0500
+
+    se ha agregado un texto
+
+commit b465bd6fd3380c9041154409c9a78c72159f0814
+Author: Jaime <jjmarin@newsoft.com.co>
+Date:   Thu Sep 12 11:51:00 2019 -0500
+
+    Iniciamos

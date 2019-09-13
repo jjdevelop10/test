@@ -1,0 +1,21 @@
+
+comandos b·sicos git bash
+
+git init // inicia proycto seuusa solo una vez
+git status // muestra lo que ya subimos o lo que nos falta por subir
+git add // adiciona carpetas
+git commit -m "mensaje" /// asigna cmentarios de lo que cambiamos
+git log /// miestra todos los commit que hicimos
+git checkout
+git reset --soft  //no borra codigo  
+git reset --mixed // avanzado 
+git reset --hard   //borra todo
+git branch  muestra las ramas que tenemos
+git branch nombrederama  crea una rama
+
+head es en el commit donde nos encontramos en este momento
+
+rama es una linea de tiempo en nuestro proyecto que sirven para
+arreglar errores para hacer cambios de logica de interfaz
+
+la rama master es en donde comenzamos a trabajar, es la rama princ√≠pal y estable de nuestro proyecto
